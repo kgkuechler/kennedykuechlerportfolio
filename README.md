@@ -12,6 +12,8 @@ With skills in data analytics, microsoft platforms, canva, and adobe, I am able 
 
 My innovative skill set, commitment to quality,  and passion for creativity makes me a valuable asset. In my spare time, I like to hangout with friends, family and be outside. 
 
+- ![Profile](images/Screenshot 2025-12-03 at 10.49.24 AM.png)
+
 ### Education 
 BS in Biohealth, commerciliaztion conncentration / Minor - Marketing
 Loyola University Maryland
