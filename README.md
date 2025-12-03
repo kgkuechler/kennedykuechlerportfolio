@@ -7,7 +7,7 @@ Contact Info: [267-355-4319] kgkuechler@loyola.edu , https://www.linkedin.com/in
 Hello! I am an experienced Communication Specialist and Medical Device professional with over 7 years of proven expertise in Marketing and Health Care. 
 
 
-With skills in data analytics, microsoft platforms, canva, and adobe, I am able to develop data organization systems and visual presentation, and achieve overall efficiency. I am adept at using Excel, Google Platforms, and Access. 
+With skills in data analytics, microsoft platforms, and canva, I am able to develop data organization systems and visual presentation, and achieve overall efficiency. I am adept at using Excel, Google Platforms, and Access. 
 
 
 My innovative skill set, commitment to quality,  and passion for creativity makes me a valuable asset. In my spare time, I like to hangout with friends, family and be outside. 
