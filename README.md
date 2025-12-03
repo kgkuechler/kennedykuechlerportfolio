@@ -2,7 +2,7 @@
 Portfolio for Kennedy CS105*03
 - ![Banner](images/portfolio banner.png)
 # Kennedy Kuechler
-Contact Info: [267-355-4319] kgkuechler@loyola.edu
+Contact Info: [267-355-4319] kgkuechler@loyola.edu , https://www.linkedin.com/in/kennedy-kuechler-3a6232293/ 
 ### About Me 
 Hello! I am an experienced Communication Specialist and Medical Device professional with over 7 years of proven expertise in Marketing and Health Care. 
 
