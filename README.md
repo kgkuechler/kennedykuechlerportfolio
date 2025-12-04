@@ -31,6 +31,8 @@ Loyola University Maryland
  ![Budget](images/Screenshot 2025-12-03 at 10.03.46 AM.png)
  - https://studentsloyola-my.sharepoint.com/:x:/r/personal/kgkuechler_loyola_edu/Documents/KennedyKuechler_CS105.03,%20ExcelAssessment%208.xlsx?d=wf03724156c484f7a85453e95205ce8ae&csf=1&web=1&e=7vrTdC 
  - I came up with this project by looking at my accounts and seeing where everything was being deposited or withdrawn. The problem I wanted to solve was seeing how much money I could save and make in the next year. It was a problem that needed to be solved because I want to be financially smart.The tools I used to complete this were different equations in Microsoft Excel. The challenges I faced were creating the equations, but once I understood how to select the cells and put together the right actions I understood it better. If I had to make any improvements I would have used a little more detailed equations and gone into a little more heavy details to save even more money.
+
+ 
 ***
 #### Personality Test
  - Creating a personality test by coding was something that was completely out of my knowledge on how to do it. I really liked this project because I learned so much from it and it let me show my creative side.
