@@ -39,6 +39,6 @@ Loyola University Maryland
 #### Personality Test
  - Creating a personality test by coding was something that was completely out of my knowledge on how to do it. I really liked this project because I learned so much from it and it let me show my creative side.
  ![Personality](images/Screenshot 2025-12-03 at 10.20.41 AM.png)
- [JDoodle Personality Test](https://www.jdoodle.com/ga/3JGGIT4RkI9oqV5XNObfrQ%3D%3D )
+ [JDoodle Personality Test](https://www.jdoodle.com/ia/1NVY)
 
  - In class we were told to come up with a specific personality test. This was one of my favorite things we did in class because we could be very creative with how we coded. The problem I set out to solve was how I coded things and then depending on certain answers, that means certain numbers and then that means a color! For this project I used a coding system called JDoodle. The challenges I faced consisted of making sure everything was perfect. If one thing was off the whole output would not work. What I set out to achieve was to make a personality type based off of a color like a very outgoing exciting person would be a yellow. If I could improve this in any way, it would be to make the questions a little more detailed and less basic. 
