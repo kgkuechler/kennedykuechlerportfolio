@@ -1,6 +1,4 @@
-# kennedykuechlerportfolio
-Portfolio for Kennedy CS105*03
-- ![Banner](images/portfolio banner.png)
+![Banner](images/portfolio banner.png)
 # Kennedy Kuechler
 Contact Info: [267-355-4319] kgkuechler@loyola.edu , https://www.linkedin.com/in/kennedy-kuechler-3a6232293/ 
 ### About Me 
